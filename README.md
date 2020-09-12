@@ -9,11 +9,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | Python | Dart | PHP
-- 🌐 &nbsp; ReactJS | NextJS | GatsbyJS | NodeJS | Sass
-- 📱 &nbsp; React Native | Flutter
-- 🛢 &nbsp;  MongoDB
-- 🖥 &nbsp; Illustrator| Photoshop | InkScape | Gimp | Figma | Adobe Xd
+- 💻 JavaScript | TypeScript | Python | Dart | PHP
+- 🌐 ReactJS | NextJS | GatsbyJS | NodeJS | Sass
+- 📱 React Native | Flutter
+- 🛢 MongoDB
+- 🖥 Illustrator| Photoshop | InkScape | Gimp | Figma | Adobe Xd
 
 
 
