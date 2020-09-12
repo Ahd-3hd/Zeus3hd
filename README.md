@@ -19,4 +19,4 @@
 
 [![Ahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeus3hd&show_icons=true)](https://github.com/Zeus3hd)
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
