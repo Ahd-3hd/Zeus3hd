@@ -1,17 +1,17 @@
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AhdHani_js)](https://twitter.com/AhdHani_js)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahdradwan//)](https://www.linkedin.com/in/ahdradwan/) [![Gmail Badge](https://img.shields.io/badge/-ahdhani0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahdhani0@gmail.com)](mailto:ahdhani0@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating a platform for UNICEF to infrom people about the accuracy of infromation and news.
+- 🔭 I’m currently working on creating a platform for UNICEF to inform people about the accuracy of infromation and news(CMS).
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- 🔧 Currently learning MySQL
+- 🔧 Looking for a fun technology to learn
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | Python | Dart | PHP
 - 🌐 &nbsp; ReactJS | NextJS | GatsbyJS | NodeJS | Sass
+- 📱 &nbsp; React Native | Flutter
 - 🛢 &nbsp;  MongoDB
 - 🖥 &nbsp; Illustrator| Photoshop | InkScape | Gimp | Figma | Adobe Xd
 
