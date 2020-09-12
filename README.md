@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - ✍️ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 - 🔧 Currently learning MySQL
--->
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | Python | Dart | PHP
