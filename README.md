@@ -3,14 +3,12 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating a platform for UNICEF to inform people about the accuracy of infromation and news(CMS).
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🔧 Looking for a fun technology to learn
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 JavaScript | TypeScript | Python | Dart | PHP
-- 🌐 ReactJS | NextJS | GatsbyJS | NodeJS | Sass
+- 💻 JavaScript | TypeScript | Python | Dart
+- 🌐 ReactJS | NextJS | GatsbyJS | NodeJS | Sass | CSS | Flask
 - 📱 React Native | Flutter
 - 🛢 MongoDB
 - 🖥 Illustrator| Photoshop | InkScape | Gimp | Figma | Adobe Xd
