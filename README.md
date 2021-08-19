@@ -3,16 +3,9 @@
 
 ### Hi there 👋
 
+Description is outdated and I don't have the time to update it.
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 JavaScript | TypeScript | Python | Dart
-- 🌐 ReactJS | NextJS | GatsbyJS | NodeJS | Sass | CSS | Flask
-- 📱 React Native | Flutter
-- 🛢 MongoDB
-- 🖥 Illustrator| Photoshop | InkScape | Gimp | Figma | Adobe Xd
-
+see you later.
 
 
 [![Ahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeus3hd&show_icons=true)](https://github.com/Zeus3hd)
